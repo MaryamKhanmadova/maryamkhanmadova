@@ -1,4 +1,4 @@
-# 👩💻 About Me:
+# 💻 About Me:
 I love to write code and test software😎
 
 ## 🌐 Socials:
