@@ -1,5 +1,5 @@
 # 💻 About Me:
-I love to write code and test software😎
+I love to test software and write code to test software 😎
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Maryam Khanmadova](https://www.linkedin.com/in/maryamkhanmadova)) 
